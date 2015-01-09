@@ -1,0 +1,9 @@
+Package: top10predict
+Type: Package
+Title: Building prediction model for POC
+Version: 1.0
+Date: 2015-01-09
+Author: Abhishek Kapoor
+Maintainer: Abhishek Kapoor<abhishek.kapoor@smartmandate.com>
+Description: Building and predicting from model from selecting the top 10 predictors
+License: GPL-3
